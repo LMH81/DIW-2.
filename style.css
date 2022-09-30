@@ -18,20 +18,130 @@ h1 {
     color: white;
 
 }
-/*---------Párrafos--------------------*/
+/*---------Párrafos ejercicio02--------------------*/
 .uno{
     font-size: 14px;
     color: brown;
+    text-align: left;
 }
 
 .dos{
     font-size: 12px;
     color: rgb(35, 141, 199);
+    text-align: left;
 }
 
 .tres{
     font-size: 9px;
     color: rgb(235, 32, 235);
+    text-align: left;
 }
 
-/*-----------------*/
+
+
+/*--------Párrafos en ejercicio03.html--------*/
+
+section.ejercicio03{
+    text-align: center;
+}
+.a{
+
+    font-size: 20px;
+    color: blue;
+    
+
+}
+.b{
+    font-size: 15px;
+    font-style: oblique;
+    color: red;
+    
+}
+
+.c{
+    font-size: 7px;
+    font-style:initial;
+    color:blueviolet;
+      
+}
+
+.d{
+    font-size: 2empx;
+    text-decoration: underline;
+    color:rgb(43, 171, 226);
+      
+}
+.e{
+    font-size: 2empx;
+    text-decoration: overline;
+    color:pink;
+      
+}
+
+.f{
+    font-size: 10px;
+    text-decoration:solid;
+    color:rgb(104, 100, 214);
+      
+}
+/*---------------------------------------------Ejercicio04------------------------------*/
+
+.negrita{
+    font-weight: bold; 
+    text-align: left;   
+}
+.cursiva{
+    font-style: oblique;
+    text-align: left; 
+}
+.subrayado{
+    text-decoration: underline;
+    text-align: left; 
+}
+.tamaño{
+    font-size: 1.5em;
+    text-align: left; 
+}
+.rojo{
+    color: red;
+    text-align: left; 
+}
+.azul{
+    color: blue;
+    font-size: 2em;
+    text-align: left; 
+}
+.negrita-cursiva{
+    font-weight: bold;
+    font-style: oblique;
+    text-align: left; 
+}
+.negrita-sub{
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: left; 
+}
+.cursiva-sub{
+    font-style: oblique;
+    text-decoration: underline; 
+    text-align: left; 
+}
+.negrita-cursiva-sub{
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: underline;
+    text-align: left;  
+}
+/*-----Ejercicio05.html---------------------------------*/
+.black{
+    background-color: black;
+}
+.centrado{
+    text-align: center; 
+}
+a{
+    color: #f2ff42;
+    
+}
+
+
