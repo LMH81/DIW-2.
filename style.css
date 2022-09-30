@@ -1,0 +1,15 @@
+/*. La fuente del texto será: para que sea: font-family: Tahoma, Verdana, Segoe, sans-serif;
+Todos los colores se expresarán en hexadecimal (#ffffff).
+*/
+body {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#4ee44e;
+}
+
+h1 {
+
+    text-align: center;
+    color: white;
+
+}
